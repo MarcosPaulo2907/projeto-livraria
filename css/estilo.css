@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/******Header**********/
+#topo h1 {
+    color: red;
+    text-align: center;
+}
+#topo h2{
+    text-align: center;
+}
+
+/******main*******/
+.destaque h2{
+    color: blue;
+}
+
+.sobre h3{
+    color: red;
+}
